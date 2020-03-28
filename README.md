@@ -1,6 +1,6 @@
 # Deep Learning Notes
 
-* On [Stlye Transfer](style-transfer.ipynb)
+* On [Stlye Transfer](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/style-transfer.ipynb)
 
 ## Setup
 
