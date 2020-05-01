@@ -3,6 +3,7 @@
 * On [Style Transfer](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/style-transfer.ipynb)
 * On [Machine Learning Math](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/ml-math.ipynb)
 * On [Machine Learning Data](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/ml-data.ipynb)
+* On [Tensor Algebra with PyTorch](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/ml-tensoralgebra-pytorch.ipynb)
 
 ## Setup
 
