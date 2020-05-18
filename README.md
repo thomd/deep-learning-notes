@@ -5,6 +5,7 @@
 * On [Machine Learning Data](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/ml-data.ipynb)
 * On [Tensor Algebra with PyTorch](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/ml-tensoralgebra-pytorch.ipynb)
 * [CIFAR-10 CNN](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/cnn.ipynb)
+* [Image classification with Pre-Trained CNNs](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/cnn-transfer-learning.ipynb)
 
 ## Setup
 
