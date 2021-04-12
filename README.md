@@ -10,6 +10,7 @@ Some notes on machine learning from a human learner.
 * [Image classification with Pre-Trained CNNs](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/cnn-transfer-learning.ipynb)
 * On [Style Transfer](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/style-transfer.ipynb)
 * Notes on [Recurrent Neural Networks](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/rnn.ipynb) (RNN)
+* On [K-Nearest Neighbor (KNN) Classification](https://nbviewer.jupyter.org/github/thomd/deep-learning-notes/blob/master/knn-classifier.ipynb)
 
 ## Setup
 
